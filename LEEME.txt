@@ -1,0 +1,17 @@
+MKT.LAB — Proyectos HTML de marketing
+
+CONTENIDO
+- index.html: portada con Acerca de mí y Proyectos.
+- proyectos/que-es-marketing.html: infografía HTML.
+- proyectos/las-4p.html: presentación HTML sobre Producto, Precio, Plaza y Promoción.
+- proyectos/segmentacion.html: mapa mental de segmentación y nota sobre A/B.
+- assets/styles.css: estilos compartidos.
+
+CÓMO ABRIR
+Abre index.html en un navegador. Bootstrap 5.3.3 se carga desde CDN, por lo que se requiere conexión a internet para cargar sus estilos.
+
+PERFIL Y TRABAJOS DE CLASE
+La portada incluye el perfil, retrato y contacto de Rodrigo Domínguez. La sección Proyectos reúne los tres trabajos de clase de marketing.
+
+TECNOLOGÍAS
+HTML5, CSS y Bootstrap 5.3.3. No requiere instalación ni compilación.
